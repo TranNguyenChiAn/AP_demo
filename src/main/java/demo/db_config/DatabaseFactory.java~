@@ -1,0 +1,5 @@
+package demo.db_config;
+
+public class DatabaseFactory {
+
+}

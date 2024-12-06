@@ -1,0 +1,6 @@
+package demo.db_config;
+
+public enum DatabaseType {
+    MySQL,
+    PostgreSQL
+}
